@@ -1,0 +1,39 @@
+html{
+    background-color: #394e49;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: #f7ede2;
+    text-align: center;
+
+}
+
+h2, h3{
+    color: #f5cac3;
+    text-align: center;
+}
+
+a{
+    color: #f6bd60;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a:hover{
+    color: #f28482;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+p, li{
+    color: #f7ede2;
+    font-size: 18px;
+}
+
+li strong{
+    color: #f28482;
+}
